@@ -24,7 +24,7 @@ This project implements an **event-driven architecture** using AWS services mana
 
 ---
 
-## 🚀 Features
+##  Features
 
 - REST API endpoint using API Gateway
 - AWS Lambda to process JSON payload
@@ -34,7 +34,7 @@ This project implements an **event-driven architecture** using AWS services mana
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **AWS Lambda**
 - **Amazon S3**
@@ -44,7 +44,7 @@ This project implements an **event-driven architecture** using AWS services mana
 
 ---
 
-## ⚙️ Terraform Workflow
+##  Terraform Workflow
 
 ### Step 1: Initialize Terraform
 ```bash
